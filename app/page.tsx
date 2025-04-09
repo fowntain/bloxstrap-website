@@ -414,12 +414,12 @@ export default function Home() {
           </div>
           <p className="text-sm text-gray-400">
             <Link
-              href="https://fowntain.me"
+              href="https://github.com/bloxstraplabs/bloxstrap/blob/main/LICENSE"
               target="_blank"
               rel="noreferrer"
               className="hover:text-white transition-colors"
             >
-              Fan site made with ❤️ by fowntain
+              An open-source project licensed under the MIT License.
             </Link>
           </p>
           <div className="flex items-center gap-4">
