@@ -11,6 +11,16 @@ A modern, minimal download site for Bloxstrap, rebuilt with today's design stand
 - Steps for installation to aid new users
 - Fast and lightweight
 
+## Deployment
+1. Install required packages: 
+`npm install`
+
+2. Build the app: 
+`npm run build`
+
+3. Start your server: 
+`npm start`
+
 ## Built With
 
 - React  
